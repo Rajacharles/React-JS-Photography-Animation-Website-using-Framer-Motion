@@ -1,4 +1,5 @@
-![React-JS-Photography-Animation-Website-using-Framer-Motion](https://user-images.githubusercontent.com/82109268/208354942-777432e5-9022-4716-8b83-9497cf386170.jpg)
+![React-JS-Photography-Animation-Website-using-Framer-Motion](https://user-images.githubusercontent.com/82109268/208447490-0e91dd6a-0593-4501-8481-a14eb8cbcca6.jpg)
+
 
 
 # Getting Started with Create React App
