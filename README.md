@@ -1,3 +1,6 @@
+![React-JS-Photography-Animation-Website-using-Framer-Motion](https://user-images.githubusercontent.com/82109268/208354942-777432e5-9022-4716-8b83-9497cf386170.jpg)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
